@@ -1,6 +1,6 @@
-# AI-Direito
+# BooksAI
 
-Sistema de processamento e consulta de livros jurídicos usando OCR e embeddings.
+Sistema de processamento e consulta de livros usando OCR e embeddings.
 
 ## Estrutura
 
