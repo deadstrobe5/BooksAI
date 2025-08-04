@@ -1,0 +1,8 @@
+python-dotenv
+openai
+qdrant-client
+pdf2image
+pytesseract
+langchain
+langchain-openai
+tqdm 
